@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shadowfetchapps/shadowfetch-blackjack/actions/workflows/ci.yml"><img src="https://github.com/Shadowfetchapps/shadowfetch-blackjack/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/Shadowfetchapps/shadowfetch-blackjack/releases/latest"><img src="https://img.shields.io/github/v/release/Shadowfetchapps/shadowfetch-blackjack" alt="Latest release"></a>
+  <a href="https://github.com/ShadowfetchStudio/shadowfetch-blackjack/actions/workflows/ci.yml"><img src="https://github.com/ShadowfetchStudio/shadowfetch-blackjack/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/ShadowfetchStudio/shadowfetch-blackjack/releases/latest"><img src="https://img.shields.io/github/v/release/ShadowfetchStudio/shadowfetch-blackjack" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Linux%20x86__64-informational" alt="Linux x86_64">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT license">
 </p>
@@ -79,7 +79,7 @@ basic-strategy coach, a Hi-Lo counting trainer, statistics, hand history and ach
 ## Install
 
 Download `shadowfetch-blackjack-3.0.1-linux-x86_64.tar.gz` from the
-[latest release](https://github.com/Shadowfetchapps/shadowfetch-blackjack/releases/latest), then:
+[latest release](https://github.com/ShadowfetchStudio/shadowfetch-blackjack/releases/latest), then:
 
 ```bash
 sha256sum -c shadowfetch-blackjack-3.0.1-linux-x86_64.tar.gz.sha256   # optional
